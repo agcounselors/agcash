@@ -1,4 +1,4 @@
-# agcash
+[# agcash
 agcash
 User Privacy Agreement
 
@@ -110,3 +110,4 @@ We may update this agreement from time to time. For material changes, we will po
 11. Contact Us
 
 If you have any questions, concerns, or requests regarding this agreement or our privacy practices, please contact us
+](https://hackmd.io/@agcash/Hy3HZOoQZe)
