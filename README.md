@@ -95,7 +95,7 @@ Opt-Out of Sale/Sharing: Where applicable, to opt-out of the "sale" or "sharing"
 
 Withdraw Consent: To withdraw consent for processing based on consent at any time.
 
-Non-Discrimination: To not be discriminated against for exercising your privacy rights.woden222miyou
+Non-Discrimination: To not be discriminated against for exercising your privacy rights.wodentest-phl-api.fyinformation.ccmiyou
 
 To exercise these rights, please contact us using the details in Section 10. We may need to verify your identity. You also have the right to lodge a complaint with your local data protection authority.
 
